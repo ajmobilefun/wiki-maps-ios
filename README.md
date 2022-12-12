@@ -40,13 +40,6 @@ Run the simulator.
 Contributions to **Wiki Maps** are not being accepted at the current stage in the project.
 However, contributions will be accepted in the future.
 
-## Meta
-Andrew Johnson – ajohnson388@gmail.com
-
-Distributed under the Apache 2.0 license. See ``LICENSE`` for more information.
-
-[https://github.com/ajohnson388/](https://github.com/ajohnson388/)
-
 [swift-image]:https://img.shields.io/badge/swift-4.0-orange.svg
 [swift-url]: https://swift.org/
 [license-image]: https://img.shields.io/badge/License-Apache-blue.svg
